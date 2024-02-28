@@ -1,0 +1,3 @@
+module "generateRandomFiles" {
+  source = "./randomfiles"
+}
